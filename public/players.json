@@ -1,0 +1,134 @@
+[
+  {
+    "playerImage": "https://i.ibb.co.com/kV11Gm9y/shakib-al-hasan.png",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "rating": 9.5,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Slow Left-arm Orthodox",
+    "price": "$120,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/Tqr7kKpn/andre-russel.jpg",
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerRole": "All-Rounder",
+    "rating": 9.3,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$150,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/tjv3Qhj/mushfiqur-rahim.jpg",
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Wicketkeeper Batter",
+    "rating": 8.7,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "N/A",
+    "price": "$100,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/fzBfrRQ8/mustafijur-rahman.webp",
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "rating": 8.9,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Fast-Medium",
+    "price": "$110,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/wNf5mPpM/david-miller.png",
+    "playerName": "David Miller",
+    "playerCountry": "South Africa",
+    "playerRole": "Batter",
+    "rating": 8.8,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$130,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/CKHVHtP2/tamim-iqbal.jpg",
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Batter",
+    "rating": 8.5,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$90,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/gbchSVBq/rahmanullah-gurbaz.webp",
+    "playerName": "Rahmanullah Gurbaz",
+    "playerCountry": "Afghanistan",
+    "playerRole": "Wicketkeeper Batter",
+    "rating": 8.6,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "N/A",
+    "price": "$95,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/tpNn3W63/rashid-khan.webp",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerRole": "Bowler",
+    "rating": 9.4,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Legbreak",
+    "price": "$160,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/LVr23rC/liton-das.jpg",
+    "playerName": "Liton Das",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Wicketkeeper Batter",
+    "rating": 8.4,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "N/A",
+    "price": "$85,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/mV2z7mm4/hasan-mahmud.jpg",
+    "playerName": "Hasan Mahmud",
+    "playerCountry": "Bangladesh",
+    "playerRole": "Bowler",
+    "rating": 8.1,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "price": "$80,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/5hxn8pJy/mahmudullah.jpg",
+    "playerName": "Mahmudullah",
+    "playerCountry": "Bangladesh",
+    "playerRole": "All-Rounder",
+    "rating": 8.3,
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$105,000",
+    "button": "Add to Cart"
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/v6HjGyF2/eoin-morgan.jpg",
+    "playerName": "Eoin Morgan",
+    "playerCountry": "England",
+    "playerRole": "Batter",
+    "rating": 8.2,
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Offbreak",
+    "price": "$115,000",
+    "button": "Add to Cart"
+  }
+]
